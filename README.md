@@ -3,6 +3,7 @@ The Task Manager API is a RESTful backend application developed with Laravel and
 It allows users to create, update, delete, and view their personal tasks, each with a title, description, and priority level.
 Every user also has a personal profile containing contact details, a short bio, and a profile image.
 Administrators have extended privileges, including viewing and managing all users and their tasks.
+
 ---
 
 ## Features
@@ -19,7 +20,7 @@ Administrators have extended privileges, including viewing and managing all user
 
 ---
 
-### Tech Stack
+## Tech Stack
 - **Backend:** Laravel 11  
 - **Authentication:** Laravel Sanctum  
 - **Database:** MySQL  
